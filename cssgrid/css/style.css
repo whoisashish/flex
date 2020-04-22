@@ -31,6 +31,8 @@ body {
   font-size: 15px;
 }
 
+
+
 #view {
   min-height: 100vh;
   padding: 1em;
@@ -656,4 +658,35 @@ button:not(.disabled):hover {
   .title {
     font-size: 26px;
   }
+}
+@media only screen and (max-width:1024px){
+  body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #sidebar{
+    width: 100%;
+  }
+  #view{
+  
+    width: 100%;
+    padding: 1.5em;
+    overflow: none;
+  }
+#board {
+  position: relative;
+  top: 1em;
+  width: 100vw;
+  height: 100vw;
+  min-width: 590px;
+  min-height: 590px;
+  max-width: calc(100vh - 2em);
+  max-height: calc(100vh - 2em);
+  overflow: hidden;
+  border: 12px solid #6D5720;
+  border-radius: 12px;
+  right: 1em;
+}
+
 }
