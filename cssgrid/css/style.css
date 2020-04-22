@@ -18,7 +18,7 @@ body {
   display: flex;
   min-width: 600px;
   margin: 0;
-  background-color: #5DA449;
+  background-color: #737779;
   color: rgba(255, 255, 255, 0.8);
   font-family: 'PT Sans', sans-serif;
 }
@@ -271,7 +271,7 @@ pre {
 
 .level-marker.solved {
   background-color: #228B24;
-  background-color: #5DA449;
+  background-color: #737779;
 }
 
 #level-indicator,
