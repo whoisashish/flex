@@ -7,4 +7,4 @@
 <p>Now, I need practise<br>
 I come across two great resources flexboxfroggy and gridgarden, hella fun. Next day, in a boring University lecture I think let's play it again only to be disappointed that they are not responsive.</p>
 <br><hr><p>So, I build my own version of these site's from scratch and It's RESPONSIVE.<br><hr>
-Check it here: <a href="https://ilovecss.ml/">Learn FlexBox the easy way</a> and <a href="https://ilovecss.ml/cssgrid/">Learn CSS Grid the EEasy way</a>
+Check it here: <a href="https://ilovecss.ml/">Learn FlexBox the easy way</a> and <a href="https://ilovecss.ml/cssgrid/">Learn CSS Grid the Easy way</a>
